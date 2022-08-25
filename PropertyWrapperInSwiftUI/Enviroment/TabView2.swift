@@ -2,7 +2,7 @@
 //  TabView2.swift
 //  PropertyWrapperInSwiftUI
 //
-//  Created by Purplle on 23/08/22.
+//  Created by Niraj Paul on 23/08/22.
 //
 
 import SwiftUI

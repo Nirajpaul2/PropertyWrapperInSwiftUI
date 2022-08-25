@@ -2,7 +2,7 @@
 //  ObservableObj.swift
 //  PropertyWrapperInSwiftUI
 //
-//  Created by Purplle on 18/08/22.
+//  Created by Niraj Paul on 18/08/22.
 //
 
 import SwiftUI

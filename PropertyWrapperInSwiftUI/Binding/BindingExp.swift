@@ -2,7 +2,7 @@
 //  BindingExp.swift
 //  PropertyWrapperInSwiftUI
 //
-//  Created by Purplle on 17/08/22.
+//  Created by Niraj Paul on 17/08/22.
 //
 
 import SwiftUI

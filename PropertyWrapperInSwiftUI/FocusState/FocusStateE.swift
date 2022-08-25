@@ -2,7 +2,7 @@
 //  FocusState.swift
 //  PropertyWrapperInSwiftUI
 //
-//  Created by Purplle on 22/08/22.
+//  Created by Niraj Paul on 22/08/22.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  CounterModel.swift
 //  PropertyWrapperInSwiftUI
 //
-//  Created by Purplle on 20/08/22.
+//  Created by Niraj Paul on 20/08/22.
 //
 
 import Foundation
