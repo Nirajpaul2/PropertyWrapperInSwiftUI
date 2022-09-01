@@ -3,3 +3,7 @@
 
 Medium Article for ref:
 https://medium.com/@nirajpaul.ios/property-wrappers-in-swiftui-41c9633e753
+
+
+Youtube Video link ref: https://www.youtube.com/watch?v=M6vwHYwx17M&list=PLZkOQW-gYNouSs1qZ7leL0VPYvAkb7n20
+
